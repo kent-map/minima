@@ -18,6 +18,12 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
+github:
+  owner_name: kent-map
+  repository_name: minima
+  source:
+    branch: master
+
 minima:
   # Minima skin selection. Available skins are:
   #   Available skins:
